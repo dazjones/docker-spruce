@@ -1,4 +1,5 @@
-#docker-spruce
+# docker-spruce
+
 Docker image containing git & spruce
 
 Usage:
